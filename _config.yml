@@ -1,0 +1,8 @@
+title: My Portfolio
+name: Samiarose Ferrarelli
+email: samiarose0829@gmail.com
+
+collections: 
+  design: 
+      output: true
+      permalink: /:collections/:path/
